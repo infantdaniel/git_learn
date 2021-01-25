@@ -1,1 +1,2 @@
 "file b"  
+"updated 1" 
